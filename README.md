@@ -1,6 +1,7 @@
 # WebHackingNotes
-1- INFORMATION GATHERING: Information gathering is a part of hunting security bugs.
-Attack Surface Reconnaisance – Strategies and the Value of Standardization
+
+## INFORMATION GATHERING: Information gathering is a part of hunting security bugs.
+### Attack Surface Reconnaisance – Strategies and the Value of Standardization
 
 ***Identifying virtual hosts: Multiple websites are commonly deployed on the same physical server.
 - The websites of many organizations are hosted by service providers using
