@@ -1,6 +1,6 @@
 # WebHackingNotes
 
-## INFORMATION GATHERING: Information gathering is a part of hunting security bugs.
+## INFORMATION GATHERING (RECON): Information gathering is a part of hunting security bugs.
 ### Attack Surface Reconnaisance – Strategies and the Value of Standardization
 
 ***Identifying virtual hosts: Multiple websites are commonly deployed on the same physical server.
